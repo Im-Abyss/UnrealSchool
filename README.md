@@ -13,9 +13,11 @@
 Не понравилось, переделали:
 
 ![image](https://github.com/user-attachments/assets/770bf959-eabd-44b3-9100-98a294b441f8)
+
 ![image](https://github.com/user-attachments/assets/9cec6b05-d846-434c-a429-f2aad0346cbd)
 
 Понравилось, публикуем пост:
 
 ![image](https://github.com/user-attachments/assets/439ebace-6fd2-49e2-8112-ba8d65410ef2)
+
 ![image](https://github.com/user-attachments/assets/55c8ddaf-81a7-42af-b559-7635a48e1c7a)
