@@ -27,12 +27,12 @@ admin = Router()
 async def post_start(message: Message, state: FSMContext):
 
     user = message.from_user.id
-    
+
     if user == ADMIN_ID:
-        await message.answer("Отправьте текст для поста")
+        await message.answer("Напиши текст для поста 😁")
         await state.set_state(Post.confirm)
     else:
-        await message.answer("У вас нет прав для использования этой команды")
+        await message.answer("Фукнция доступна только админам 😉")
 
 
 @admin.message(StateFilter(Post.confirm))
