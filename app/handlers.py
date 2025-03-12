@@ -69,7 +69,7 @@ async def ai_response(message: Message, state: FSMContext):
     await asyncio.sleep(1)
     await waiting(loading_message)
     response = await get_completion(message.text)
-    await message.answer(response)
+    await loading_message.edit_text(response)
     await state.clear()
 
 
