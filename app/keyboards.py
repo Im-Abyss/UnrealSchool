@@ -3,7 +3,7 @@ from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 main_keyboard = InlineKeyboardMarkup(
     inline_keyboard=[
-        [InlineKeyboardButton(text="Сразу к делу 🟢", 
+        [InlineKeyboardButton(text="Начать обучение 🟢", 
                               callback_data="start")]
 ])
 
